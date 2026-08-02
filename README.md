@@ -1,5 +1,6 @@
 # Assistente de Atendimento de Linhas de Crédito 
 
+![Screenshot do Assitente](conhecimentos/demo.png)
 ---
 
 ## 1. Contexto e Problema
@@ -16,15 +17,15 @@ Esse cenário acarreta outros efeitos indesejados:
 
 Um assistente conversacional, com o papel de **triagem inicial** no atendimento ao empreendedor. Ele:
 
-- Recomenda, com base nesse perfil, a linha de crédito mais adequada;
+- Recomenda a linha de crédito mais adequada;
 - Explica quais documentos são exigidos e como funciona o processo, em linguagem acessível;
 - Indica claramente os próximos passos, incluindo quando encaminhar o empreendedor ao atendimento humano.
 
-O assistente não substitui a análise oficial de crédito nem o atendimento humano; ele reduz dúvidas básicas e prepara o empreendedor para a etapa seguinte do processo.
+A solução foi pensada para ser futuramente embarcada no ambiente Zaia, escalando a capacidade de atendimento da instituição com baixo custo.
 
 ## 3. Arquitetura Simples do MVP
 
-O MVP foi desenhado com apenas com as funções básicas, priorizando a simplicidade e a velocidade de implementação:
+O MVP foi desenhado apenas com as funções básicas, priorizando a simplicidade e a velocidade de implementação:
 
 ```
 Usuário (empreendedor)
@@ -42,7 +43,7 @@ Prompt Mestre + Base de Conhecimento (Markdown)
   Resposta ao usuário
 ```
 
-Não há banco de dados ou infraestrutura complexa — a base de conhecimento é lida diretamente pelo prompt, e toda a "inteligência" de negócio está concentrada nas instruções dadas à IA. Essa escolha reduz custo, tempo de desenvolvimento e mantém o foco na validação da ideia.
+Não há banco de dados ou infraestrutura complexa — a base de conhecimento é lida diretamente pelo prompt, e toda a "inteligência" de negócio está concentrada nas instruções dadas à IA. 
 
 ## 4. Dados Utilizados
 
@@ -73,5 +74,15 @@ O comportamento do assistente foi moldado por instruções explícitas no prompt
 - **Encaminhamento:** perguntas fora do escopo atual são respondidas com o direcionamento à página do site correspondente ou ao atendimento humano, em vez de resposta genérica.
 
 
+## 7.2 Backlog do Produto
+
+| Prioridade | Feature | Valor esperado |
+|---|---|---|
+| Alta | Atualização automática da base via scraping periódico do site | Manter dados sempre atualizados sem esforço manual |
+| Alta | Arquitetura RAG (Retrieval-Augmented Generation) | Reduzir o custo de tokens |
+| Alta | Integração com WhatsApp | Facilitar o acesso ao empreendedor |
+| Média | Simulador de parcelas | Atendimento mais individualizado |
+| Média | Encaminhamento automático para atendente humano em casos complexos | Evitar frustração |
+| Média | Portar o motor de conhecimento para dentro do ecossistema Zaia | Aproveitar a infraestrutura de IA existente e garantir a padronização institucional |
 
 
