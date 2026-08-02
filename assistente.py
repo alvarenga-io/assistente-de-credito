@@ -19,7 +19,7 @@ client = genai.Client(api_key=api_key)
 def carregar_base_conhecimento(nome_arquivo="regras-credito.md"):
 
     diretorio_script = Path(__file__).parent.resolve()
-    caminho_arquivo = diretorio_script.parent / "conhecimento" / nome_arquivo
+    caminho_arquivo = diretorio_script / "conhecimento" / nome_arquivo
     try:
         with open(caminho_arquivo, "r", encoding="utf-8") as arquivo:
             conteudo = arquivo.read().strip()
@@ -43,7 +43,7 @@ Seu objetivo é orientar empreendedores de forma clara, didática e acolhedora s
 
 2. **GENTILEZA E ANTI-ALUCINAÇÃO**:
    - A base de conhecimento contempla apenas as linhas FCO. Se a dúvida do usuário NÃO estiver coberta pela base de conhecimento, diga de forma educada e transparente: 
-     "Não possuo essa informação na minha base de consulta no momento. Você pode consultar todas as linhas disponíveis [!aqui](https://www.goiasfomento.com/linhas-de-credito/). Para detalhes específicos sobre este ponto, recomendo entrar em contato direto com a equipe de atendimento da GoiásFomento."
+     "Não possuo essa informação na minha base de consulta no momento. Você pode consultar todas as linhas disponíveis [!aqui](https://www.goiasfomento.com/linhas-de-credito/).n Para detalhes específicos sobre este ponto, recomendo entrar em contato direto com a equipe de atendimento da GoiásFomento."
    - Não tente adivinhar respostas para dados ausentes.
 
 3. **TOM E LINGUAGEM**:
