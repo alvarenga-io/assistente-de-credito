@@ -1,6 +1,6 @@
 # Assistente de Atendimento de Linhas de Crédito 
 
-![Screenshot do Assitente](conhecimentos/demo.png)
+![Screenshot do Assitente](conhecimento/demo.png)
 ---
 
 ## 1. Contexto e Problema
