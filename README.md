@@ -1,7 +1,12 @@
 # Assistente de Atendimento de Linhas de Crédito 
-
-![Screenshot do Assitente](conhecimento/demo.png)
 ---
+<!-- ![Screenshot do Assitente](conhecimento/demo.png) -->
+
+<div align="center">
+  <a href="https://youtu.be/Oj_IFA3q8YA">
+    <img src="https://youtube.com" alt="Assista ao vídeo" style="width:100%; max-width:600px;">
+  </a>
+</div>
 
 ## 1. Contexto e Problema
 
@@ -73,8 +78,7 @@ O comportamento do assistente foi moldado por instruções explícitas no prompt
 - **Linguagem acessível:** o tom foi calibrado para ser didático e acolhedor, considerando que o público pode não ter familiaridade com termos técnicos do setor financeiro.
 - **Encaminhamento:** perguntas fora do escopo atual são respondidas com o direcionamento à página do site correspondente ou ao atendimento humano, em vez de resposta genérica.
 
-
-## 7.2 Backlog do Produto
+## 8. Backlog do Produto
 
 | Prioridade | Feature | Valor esperado |
 |---|---|---|
@@ -83,6 +87,6 @@ O comportamento do assistente foi moldado por instruções explícitas no prompt
 | Alta | Integração com WhatsApp | Facilitar o acesso ao empreendedor |
 | Média | Simulador de parcelas | Atendimento mais individualizado |
 | Média | Encaminhamento automático para atendente humano em casos complexos | Evitar frustração |
-| Média | Portar o motor de conhecimento para dentro do ecossistema Zaia | Aproveitar a infraestrutura de IA existente e garantir a padronização institucional |
+| Média | Portar o motor de conhecimento para dentro do ecossistema Zaia | Aproveitar a infraestrutura de IA existente e escalar o atendimento |
 
 
