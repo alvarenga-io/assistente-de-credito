@@ -1,12 +1,5 @@
 # Assistente de Atendimento de Linhas de Crédito 
----
-<!-- ![Screenshot do Assitente](conhecimento/demo.png) -->
 
-<div align="center">
-  <a href="https://youtu.be/Oj_IFA3q8YA">
-    <img src="https://youtube.com" alt="Assista ao vídeo" style="width:100%; max-width:600px;">
-  </a>
-</div>
 
 ## 1. Contexto e Problema
 
@@ -25,6 +18,10 @@ Um assistente conversacional, com o papel de **triagem inicial** no atendimento 
 - Recomenda a linha de crédito mais adequada;
 - Explica quais documentos são exigidos e como funciona o processo, em linguagem acessível;
 - Indica claramente os próximos passos, incluindo quando encaminhar o empreendedor ao atendimento humano.
+ ---
+![Screenshot do Assitente](conhecimento/demo.png)
+
+[![Assista ao vídeo](https://youtube.com)](https://youtu.be/Oj_IFA3q8YA)
 
 A solução foi pensada para ser futuramente embarcada no ambiente Zaia, escalando a capacidade de atendimento da instituição com baixo custo.
 
