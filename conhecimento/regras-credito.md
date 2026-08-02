@@ -96,7 +96,83 @@ Além da documentação padrão solicitada pela GoiásFomento, deverão ser apre
 ## Demais condições
 
 Deverão ser observadas as condições estipuladas na Programação do FCO vigente, aprovada pelo CONDEL/SUDECO.
+---
+# FCO - Micro e Minigeração de Energia Elétrica
 
+## Identificação
+
+| Campo | Valor |
+| --- | --- |
+| Nome | FCO - Micro e Minigeração de Energia Elétrica |
+| Categoria | FCO Empresarial |
+
+## Público-alvo
+
+- Pessoas Físicas.
+
+## Limites de financiamento
+
+Até R$ 100.000,00 (cem mil reais).
+
+## Itens financiáveis
+
+- Todos os bens e serviços necessários à viabilização do projeto, exceto os listados no subitem 2.1 da Programação FCO vigente, aprovada pelo CONDEL/SUDECO.
+
+## Encargos financeiros
+
+- Conforme previstos na Programação FCO vigente aprovada pelo CONDEL/SUDECO.
+
+## Remuneração da GoiásFomento
+- Conforme prevista em contrato com o Banco do Brasil.
+
+
+## Participação da GoiásFomento
+
+Sobre o valor total do empreendimento financiável, serão aplicados os seguintes percentuais de acordo com critério de classificação do município na PNDR:
+
+- Média Renda: até 100%;
+-  Alta Renda: até 90%.
+
+## Prazos
+- Até 8 anos, incluído o período de carência de até 6 meses.
+
+## Garantias
+
+- Será necessário apresentar um ou mais avalistas cuja renda somada seja de no mínimo3 (três) vezes o valor da maior parcela do financiamento ou oferecer alienação fiduciária de imóvel com valor equivalente ou superior a 150% do valor da operação, nos financiamentos de valores superiores a R$ 50.000,00 (cinquenta mil reais);
+
+- Será obrigatório o penhor cedular do sistema financiado (equipamentos, instalações etc.) e a constituição de garantias decorrentes dos créditos de geração;
+
+- Caso a renda do tomador do financiamento seja superior a 5 (cinco) vezes o valor da maior parcela, poderão ser dispensadas as garantias previstas na alínea “a”, a critério dos Comitês de Crédito;
+
+- Não poderá ser utilizada garantia complementar de fundo de aval.
+
+## Desembolsos
+
+Preferencialmente via pagamento direto ao fornecedor mediante apresentação da(s) nota(s) fiscal(is); e/ou crédito em conta corrente do mutuário a título de reembolso/ressarcimento, mediante apresentação da(s) nota(s) fiscal(is) e respectivo(s) comprovante(s) de quitação.
+
+## Documentação
+
+Documentos exigidos para Pessoa Física nas demais operações.
+- Proposta de Financiamento
+- Ficha de Cadastro de Pessoa Física
+- Documento de Identidade e CPF
+- Comprovante de endereço residencial recente e com CEP 
+- Certidão Casamento/Separação/Divórcio/óbito, quando for o caso
+- Imposto de Renda completo, incluso recibo de entrega do último exercício
+
+Para Avalistas (se necessário):
+
+- Quando empregado de empresa privada ou servidor público: acrescentar os últimos contracheques;
+- Quando empresário ou profissional liberal: apresentar as duas últimas declarações do imposto de renda;
+- Quando aposentado ou pensionista: acrescentar o extrato do beneficio do último mês.
+
+- Cópias das contas de consumo de energia elétrica dos últimos 12 (doze) meses, além do orçamento e projeto/estudo de viabilidade técnica e econômica da instalação/equipamentos a serem financiados, apresentados pelo fornecedor que se pretende contratar.
+
+## Demais condições
+
+Considera-se operação de investimento para pessoas físicas o financiamento de sistemas de micro e minigeração distribuída de energia por fontes renováveis.
+
+Não será permitido capital de giro associado ao investimento.
 ---
 
 # FCO Verde
